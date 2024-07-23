@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 https://github.com/SonJHo
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsgh708222)](https://solved.ac/wnsgh708222)<br/>
-출처: https://wnsgh708222.tistory.com/38
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsgh708282)](https://solved.ac/wnsgh708282)<br/>
+출처: https://wnsgh708282.tistory.com/38
