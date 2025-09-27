@@ -9,7 +9,7 @@
 **Frameworks:** SpringBoot, React  
 **Libraries:** JPA  
 **Databases:** Mysql, redis  
-**Tools & Others:** Git, GitHub, Postman, AWS(EC2, RDS, S3)
+**Tools & Others:** Git, GitHub, Postman, AWS(EC2, RDS, S3), nginx
 ### Certificates
 
 ---
