@@ -4,12 +4,16 @@
 
 ---
 
-### 💻 Skills
-- Backend: Kotlin, Java, Spring, JPA, SQL
-- Frontend: React, html, css, js
+### Skills
+**Languages:** Kotlin, Java, C, C++, Python, JavaScript, HTML, CSS  
+**Frameworks:** SpringBoot, React  
+**Libraries:** JPA  
+**Databases:** SQL  
+**Tools & Others:** Git, GitHub, Postman, AWS
+### Certificates
+
 ---
 
-### 📚 Certificates
 **Inflearn Certificates of Completion**
 
 <p align="left">
