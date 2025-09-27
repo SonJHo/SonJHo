@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 ### 인프런 수료증
-![수료증 제목]([https://link-to-your-certificate-image](https://www.inflearn.com/certificate/1343063-332506-12596995))
+![수료증 제목](https://www.inflearn.com/certificate/1343063-332506-12596995)
