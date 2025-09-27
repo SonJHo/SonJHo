@@ -8,8 +8,8 @@
 **Languages:** Kotlin, Java, C, C++, Python, JavaScript, HTML, CSS  
 **Frameworks:** SpringBoot, React  
 **Libraries:** JPA  
-**Databases:** SQL  
-**Tools & Others:** Git, GitHub, Postman, AWS
+**Databases:** Mysql, redis  
+**Tools & Others:** Git, GitHub, Postman, AWS(EC2, RDS, S3)
 ### Certificates
 
 ---
