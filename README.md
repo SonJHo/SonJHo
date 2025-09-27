@@ -44,6 +44,4 @@
 
 ---
 
-### 🚀 Projects
-- Project 1: [간단한 설명](https://github.com/your-repo-link)
-- Project 2: [간단한 설명](https://github.com/your-repo-link)
+
