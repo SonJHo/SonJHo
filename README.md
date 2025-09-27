@@ -5,10 +5,8 @@
 ---
 
 ### 💻 Skills
-- Backend: Java, Spring, JPA, SQL
-- Frontend: React, SSR
-- Tools: Git, GitHub, Docker, Postman
-
+- Backend: Kotlin, Java, Spring, JPA, SQL
+- Frontend: React, html, css, js
 ---
 
 ### 📚 Certificates
