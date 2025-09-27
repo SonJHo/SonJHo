@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsgh708282)](https://solved.ac/wnsgh708282)<br/>
 
-### 인프런 수료증
+### Certificate of Completion
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/11222972-0f23-4fec-9eb1-b6ab96298e0a" width="270" style="margin-right:2px;" />
