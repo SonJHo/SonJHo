@@ -5,7 +5,7 @@
 ---
 
 ### Skills
-**Languages:** Kotlin, Java, C, C++, Python, JavaScript, HTML, CSS  
+**Languages:** Kotlin, Java,
 **Frameworks:** SpringBoot, React  
 **Libraries:** JPA  
 **Databases:** Mysql, redis  
